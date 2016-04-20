@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "amd",
+    "allowJs": false,
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "rootDir": "src"
+  },
+  "exclude": [
+    "node_modules",
+    "target",
+    "config",
+    "typings/browser",
+    "typings/browser.d.ts"
+  ]
+}
